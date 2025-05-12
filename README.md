@@ -1,5 +1,3 @@
-# Expenses App
-
 A modern Android application for tracking personal expenses and managing budgets effectively. Built with Material Design principles and Kotlin, this app helps users maintain their financial health through intuitive expense tracking and budget management.
 
 ## Features
@@ -98,21 +96,3 @@ A modern Android application for tracking personal expenses and managing budgets
    - Allocate category-wise budgets
    - Track spending against limits
 
-## Contributing
-
-1. Fork the repository
-2. Create your feature branch
-3. Commit your changes
-4. Push to the branch
-5. Create a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Acknowledgments
-
-- Material Design Guidelines
-- Android Jetpack Components
-- MPAndroidChart Library
-- Android Developer Community 

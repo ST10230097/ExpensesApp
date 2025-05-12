@@ -7,10 +7,12 @@
 
     <ImageView
         android:id="@+id/imageView"
-        android:layout_width="120dp"
-        android:layout_height="120dp"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
         android:layout_marginTop="48dp"
-        android:src="@android:drawable/ic_menu_myplaces"
+        android:src="@drawable/logoapp"
+        android:scaleType="fitCenter"
+        android:contentDescription="App Logo"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />

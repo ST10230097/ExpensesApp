@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    
+    <item
+        android:id="@+id/action_reports"
+        android:title="Reports"
+        android:icon="@android:drawable/ic_menu_report_image"
+        app:showAsAction="ifRoom" />
+        
+    <item
+        android:id="@+id/action_achievements"
+        android:title="Achievements"
+        android:icon="@android:drawable/ic_menu_myplaces"
+        app:showAsAction="ifRoom" />
+        
+    <item
+        android:id="@+id/action_budget_goals"
+        android:title="Budget Goals"
+        android:icon="@android:drawable/ic_menu_agenda"
+        app:showAsAction="ifRoom" />
+        
+    <item
+        android:id="@+id/action_settings"
+        android:title="Settings"
+        android:icon="@android:drawable/ic_menu_manage"
+        app:showAsAction="never" />
+</menu> 
